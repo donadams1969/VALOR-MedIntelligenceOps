@@ -9,7 +9,7 @@
 
 ## 👤 Founder Info
 
-* **Founder:** Donald Ernest Gillson
+* **Founder:** Donny Adams
 * **Company:** That’s Edutainment, LLC
 * **Product:** VALOR AI+ Legal Intelligence Platform
 * **IP Anchored To:** 🧬 `SOLARA-GENESIS Blockchain Record`
